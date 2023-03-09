@@ -1,10 +1,11 @@
+import Image from 'next/image';
 import React from 'react'
 
 const NotFound = () => {
     return (
         <div>
             <h1>
-                Blog doesn't exist.
+                <Image src="./404-error-page.jpg"/>
             </h1>
         </div>
     )

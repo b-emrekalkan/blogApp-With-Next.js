@@ -9,7 +9,7 @@ const Header = () => {
       </Link>
       <nav>
         <Link href="https://github.com/b-emrekalkan" target="_blank">
-          About
+          Who am I
         </Link>
       </nav>
     </header>
